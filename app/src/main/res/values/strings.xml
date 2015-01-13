@@ -6,5 +6,6 @@
     <string name="action_settings">Settings</string>
     <string name="HeaderString">1234</string>
     <string name="SetBttonText">Use this Date and Time</string>
+    <string name="SampleText">Sample Text for %d.</string>
 
 </resources>
